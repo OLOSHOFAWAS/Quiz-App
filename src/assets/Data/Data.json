@@ -1,0 +1,213 @@
+{
+    
+      "HTML": [
+        {
+          "question": "What does HTML stand for?",
+          "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Highlevel Text Markup Language"],
+          "answer": "Hyper Text Markup Language"
+        },
+        {
+          "question": "Which HTML tag is used to define a hyperlink?",
+          "options": ["<a>", "<link>", "<href>", "<anchor>"],
+          "answer": "<a>"
+        },
+        {
+          "question": "What is the purpose of the <title> tag in HTML?",
+          "options": ["To define the main content of the page", "To specify the title of the document", "To create headings", "To add a subtitle"],
+          "answer": "To specify the title of the document"
+        },
+        {
+          "question": "Which tag is used to create an ordered list?",
+          "options": ["<ul>", "<ol>", "<list>", "<ordered>"],
+          "answer": "<ol>"
+        },
+        {
+          "question": "What is the correct HTML element for inserting a line break?",
+          "options": ["<break>", "<lb>", "<br>", "<line>"],
+          "answer": "<br>"
+        },
+        {
+          "question": "Which attribute is used to specify the URL of an image?",
+          "options": ["src", "href", "alt", "url"],
+          "answer": "src"
+        },
+        {
+          "question": "What is the default file extension for HTML files?",
+          "options": [".htm", ".html", ".web", ".xml"],
+          "answer": ".html"
+        },
+        {
+          "question": "Which HTML tag is used to define the metadata of a document?",
+          "options": ["<meta>", "<data>", "<info>", "<header>"],
+          "answer": "<meta>"
+        },
+        {
+          "question": "What is the purpose of the <head> tag in HTML?",
+          "options": ["To contain the page's content", "To link external files", "To contain metadata and links to resources", "To create headings"],
+          "answer": "To contain metadata and links to resources"
+        },
+        {
+          "question": "How do you add a comment in HTML?",
+          "options": ["<!-- Comment -->", "// Comment", "# Comment", "/* Comment */"],
+          "answer": "<!-- Comment -->"
+        }
+      ],
+      "CSS": [
+        {
+          "question": "What does CSS stand for?",
+          "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+          "answer": "Cascading Style Sheets"
+        },
+        {
+          "question": "Which property is used to change the background color of an element?",
+          "options": ["color", "background-color", "bgcolor", "back-color"],
+          "answer": "background-color"
+        },
+        {
+          "question": "How do you make text bold using CSS?",
+          "options": ["font-weight: bold;", "font-style: bold;", "text-weight: bold;", "font-bold: true;"],
+          "answer": "font-weight: bold;"
+        },
+        {
+          "question": "Which CSS property is used to control the spacing between lines of text?",
+          "options": ["letter-spacing", "line-height", "text-spacing", "spacing"],
+          "answer": "line-height"
+        },
+        {
+          "question": "Which property is used to align text to the center?",
+          "options": ["text-align", "align", "center", "justify"],
+          "answer": "text-align"
+        },
+        {
+          "question": "What is the correct syntax to link an external CSS file?",
+          "options": ["<link rel='stylesheet' href='styles.css'>", "<style src='styles.css'>", "<css src='styles.css'>", "<stylesheet link='styles.css'>"],
+          "answer": "<link rel='stylesheet' href='styles.css'>"
+        },
+        {
+          "question": "Which unit is not relative in CSS?",
+          "options": ["em", "rem", "px", "%"],
+          "answer": "px"
+        },
+        {
+          "question": "How do you add a comment in CSS?",
+          "options": ["<!-- Comment -->", "// Comment", "/* Comment */", "# Comment"],
+          "answer": "/* Comment */"
+        },
+        {
+          "question": "What is the purpose of the z-index property?",
+          "options": ["To set the stacking order of elements", "To control the zoom level", "To set the transparency", "To define the border width"],
+          "answer": "To set the stacking order of elements"
+        },
+        {
+          "question": "Which property is used to create a flex container?",
+          "options": ["display: grid;", "display: flex;", "flex: container;", "flex-direction: row;"],
+          "answer": "display: flex;"
+        }
+      ],
+      "JavaScript": [
+        {
+          "question": "Which keyword is used to declare a variable in JavaScript?",
+          "options": ["var", "let", "const", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What does the typeof operator return?",
+          "options": ["The variable's type", "The variable's value", "The variable's scope", "The variable's memory location"],
+          "answer": "The variable's type"
+        },
+        {
+          "question": "How do you write 'Hello World' in an alert box?",
+          "options": ["alertBox('Hello World');", "msg('Hello World');", "alert('Hello World');", "msgBox('Hello World');"],
+          "answer": "alert('Hello World');"
+        },
+        {
+          "question": "What is the correct syntax for a function declaration in JavaScript?",
+          "options": ["function: myFunction()", "function myFunction()", "myFunction(): function", "function = myFunction()"],
+          "answer": "function myFunction()"
+        },
+        {
+          "question": "What does the isNaN() function do?",
+          "options": ["Checks if a value is null", "Checks if a value is a number", "Checks if a value is NaN", "Checks if a value is undefined"],
+          "answer": "Checks if a value is NaN"
+        },
+        {
+          "question": "What is the purpose of the addEventListener() method?",
+          "options": ["To add a new HTML element", "To call a function on an event", "To attach an event listener to an element", "To trigger an event"],
+          "answer": "To attach an event listener to an element"
+        },
+        {
+          "question": "Which symbol is used for comments in JavaScript?",
+          "options": ["//", "<!-- -->", "/* */", "#"],
+          "answer": "//"
+        },
+        {
+          "question": "How do you round a number to the nearest integer in JavaScript?",
+          "options": ["Math.round()", "Math.ceil()", "Math.floor()", "Math.int()"],
+          "answer": "Math.round()"
+        },
+        {
+          "question": "What is the output of '2' + 2 in JavaScript?",
+          "options": ["4", "22", "NaN", "Error"],
+          "answer": "22"
+        },
+        {
+          "question": "Which JavaScript method is used to parse a string into a JSON object?",
+          "options": ["JSON.parse()", "JSON.stringify()", "JSON.convert()", "JSON.objectify()"],
+          "answer": "JSON.parse()"
+        }
+      ],
+      "ReactJS": [
+        {
+          "question": "What is ReactJS?",
+          "options": ["A programming language", "A JavaScript library for building user interfaces", "A database", "A CSS framework"],
+          "answer": "A JavaScript library for building user interfaces"
+        },
+        {
+          "question": "What is JSX in React?",
+          "options": ["A syntax extension for JavaScript", "A template language", "A type of CSS", "A type of React component"],
+          "answer": "A syntax extension for JavaScript"
+        },
+        {
+          "question": "Which method is used to render a React component?",
+          "options": ["render()", "ReactDOM.render()", "React.render()", "component.render()"],
+          "answer": "ReactDOM.render()"
+        },
+        {
+          "question": "What is a React component?",
+          "options": ["A reusable piece of UI", "A function that returns HTML", "A JavaScript class or function", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the purpose of state in React?",
+          "options": ["To manage data within a component", "To define CSS styles", "To handle user input", "To call APIs"],
+          "answer": "To manage data within a component"
+        },
+        {
+          "question": "Which hook is used to manage state in functional components?",
+          "options": ["useState", "useEffect", "useContext", "useReducer"],
+          "answer": "useState"
+        },
+        {
+          "question": "What is the virtual DOM in React?",
+          "options": ["A copy of the real DOM", "An optimization layer in React", "A JavaScript object representation of the DOM", "All of the above"],
+          "answer": "A JavaScript object representation of the DOM"
+        },
+        {
+          "question": "How do you pass data from parent to child components?",
+          "options": ["Using props", "Using state", "Using hooks", "Using context"],
+          "answer": "Using props"
+        },
+        {
+          "question": "What is the purpose of the useEffect hook?",
+          "options": ["To manage component lifecycle methods", "To handle form input", "To create components", "To fetch data"],
+          "answer": "To manage component lifecycle methods"
+        },
+        {
+          "question": "How do you create a React app?",
+          "options": ["Using create-react-app", "Using npm start", "Using React.initialize()", "Using React.create()"],
+          "answer": "Using create-react-app"
+        }
+      ]
+    }
+  
+  
